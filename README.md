@@ -1,0 +1,2 @@
+# minidump
+crash dump
